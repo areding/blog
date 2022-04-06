@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron Reding</title>
+    <link>https://aaronreding.net/</link>
+    <description>Recent content on Aaron Reding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aaronreding.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BUGS to PyMC</title>
+      <link>https://aaronreding.net/posts/bugstopymc/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronreding.net/posts/bugstopymc/</guid>
+      <description>Redoing an older Bayesian Statistics course with more modern tools I&amp;rsquo;m working on translating the examples from Professor Vidakovic&amp;rsquo;s Bayesian Statistics course at Georgia Tech from MATLAB and OpenBUGS to Python (using libraries PyMC3 and pgmpy). As a former student and current TA, by far the number one complaint I&amp;rsquo;ve heard about the course is that OpenBUGS is outdated and a waste of time to learn. I chose PyMC because among the newer Probabilistic Programming Languages it seems the easiest to learn, especially since I&amp;rsquo;m most familiar with Python.</description>
+    </item>
+    
+    <item>
+      <title>Tianjin soup-filled dumplings</title>
+      <link>https://aaronreding.net/posts/tianjindumplings/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronreding.net/posts/tianjindumplings/</guid>
+      <description>For quite a while after I first came to China, I was scared to go to new restaurants alone and order in Chinese. I walked everywhere, and we live on a pretty huge hill, so I would occasionally get hungry enough to overcome my fear of interaction. (I lost about 10 pounds during this period. Unfortunately, as my Chinese got better, my weight went back up.) This post is about</description>
+    </item>
+    
+    <item>
+      <title>Group essays in small classes</title>
+      <link>https://aaronreding.net/posts/groupessays/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronreding.net/posts/groupessays/</guid>
+      <description>One of my favorite exercises for small classes of intermediate students is the group essay. When I first started teaching, we would always write individual essays, as called for in the provided lesson plan. But that resulted in long periods of quiet, which isn’t great for an oral English class.
+So I asked the students to take turns coming up with a sentence while I transcribed them. The result is usually a much more engaged class.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aaronreding.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronreding.net/about/</guid>
+      <description>I&amp;rsquo;m Aaron Reding. Right now I live in Hainan, China, where I&amp;rsquo;m trying to be less bad at Chinese and surfing. I&amp;rsquo;m about to graduate with a master&amp;rsquo;s in analytics through Georgia Tech&amp;rsquo;s OMSA program.</description>
+    </item>
+    
+  </channel>
+</rss>

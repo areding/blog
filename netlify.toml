@@ -1,0 +1,10 @@
+[build]
+    command = "hugo"
+    publish = "public"
+    functions = "functions"
+
+[context.production.environment]
+    HUGO_VERSION = "0.96.0"
+    HUGO_ENV = "production"
+    HUGO_ENABLEGITINFO = "true"
+
