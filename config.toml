@@ -1,7 +1,7 @@
 baseURL = "https://aaronreding.net"
 languageCode = "en-us"
 title = "Aaron Reding"
-theme = "hermit"
+theme = "hermit-mine"
 description = ""
 
 enableGitInfo = true
