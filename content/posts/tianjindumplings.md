@@ -13,7 +13,7 @@ For quite a while after I first came to China, I was scared to go to new restaur
 This post is about the menu at Tianjin Soup Dumplings, a tiny restaurant near my elementary school. My interactions with the owner at first were limited to something like:
 
 > ”你好，可以买一笼包子和一个鸡蛋？” (Hello, can I buy a basket of buns and an egg?)\
-> “九快。” (9 yuan.)\
+> “九块。” (9 yuan.)\
 > “谢谢。” (Thanks.) \
 > “不用谢。” (No need for thanks.)
 
