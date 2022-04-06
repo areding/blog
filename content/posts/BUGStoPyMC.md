@@ -11,7 +11,7 @@ tags = ["project", "Bayes", "probabilisticprogramming", "pymc"]
 
 I'm working on translating the examples from Professor Vidakovic's Bayesian Statistics course at Georgia Tech from MATLAB and OpenBUGS to Python (using libraries PyMC3 and pgmpy). As a former student and current TA, by far the number one complaint I've heard about the course is that OpenBUGS is outdated and a waste of time to learn. I chose PyMC because among the newer [Probabilistic Programming Languages](https://en.wikipedia.org/wiki/Probabilistic_programming#List_of_probabilistic_programming_languages) it seems the easiest to learn, especially since I'm most familiar with Python.
 
-The project can be found [here](https://areding.github.io/6420-pymc/). It's made with [Jupyter book](https://jupyterbook.org/), and makes use of PyMC 3, [PyMC 4](https://github.com/pymc-devs/pymc), [NumPy](https://numpy.org/), [Arviz](https://arviz-devs.github.io/arviz/), and [pgmpy](https://pgmpy.org/).
+The project can be found [here](https://areding.github.io/6420-pymc/). It's made with [Jupyter Book](https://jupyterbook.org/), and makes use of PyMC 3, [PyMC 4](https://github.com/pymc-devs/pymc), [NumPy](https://numpy.org/), [Arviz](https://arviz-devs.github.io/arviz/), and [pgmpy](https://pgmpy.org/).
 
 ## Todo:
 
