@@ -1,1 +1,1 @@
-I'm Aaron Reding. Right now I live in Hainan, China, where I'm trying to be less bad at Chinese and surfing. I'm about to graduate with a master's in analytics through Georgia Tech's OMSA program.
+I'm Aaron Reding. I studied geology as an undergrad and just graduated from Georgia Tech with a Master's in Analytics. I'm about to start a job search all across the west coast, so I plan to update this site with a few portfolio projects I've been working on.
