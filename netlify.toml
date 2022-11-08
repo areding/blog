@@ -8,3 +8,13 @@
     HUGO_ENV = "production"
     HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+from = "https://aaronreding.ie/*"
+to = "https://aaronreding.net/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://www.aaronreding.ie/*"
+to = "https://aaronreding.net/:splat"
+status = 301
+force = true
