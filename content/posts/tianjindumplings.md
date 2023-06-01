@@ -1,7 +1,7 @@
 +++
 
 title = "Tianjin soup dumplings"
-draft = true
+draft = false
 description = "A menu translation."
 tags = ["Chinese", "menu", "China", "translation"]
 date = 2020-01-14
@@ -10,7 +10,7 @@ date = 2020-01-14
 
 For quite a while after I first came to China, I was scared to go to new restaurants alone and order in Chinese. I walked everywhere, and we live on a pretty huge hill, so I would occasionally get hungry enough to overcome my fear of interaction. (I lost about 10 pounds during this period. Unfortunately, as my Chinese got better, my weight went back up.)
 
-This post is about the menu at Tianjin Soup Dumplings, a tiny restaurant near my elementary school. My interactions with the owner at first were limited to something like:
+This post is about the menu at Tianjin Soup Dumplings, a tiny restaurant near my elementary school. My interactions with the owner were, at first, limited to something like:
 
 > ”你好，可以买一笼包子和一个鸡蛋？” (Hello, can I buy a basket of buns and an egg?)\
 > “九块。” (9 yuan.)\
@@ -19,11 +19,9 @@ This post is about the menu at Tianjin Soup Dumplings, a tiny restaurant near my
 
 {{< figure src="/images/tianjinbaozi.jpg" alt="A basket of baozi." caption="一笼包子" >}}
 
-One time, feeling adventurous, I tried to order soup buns (also known as soup dumplings in English), but I thought they were called 小笼包 (xiǎo lóng bāo, little basket buns). 2 minutes later I received my usual order of non-soup buns. Now that I'm translating this menu, I see why. Here they call them 汤包 (tāng bāo, literally, soup buns). Also my pronunciation was probably terrible. I'll try ordering 汤包 next time and see what happens.
+Anyways, to improve my vocabulary, I like to translate menus.
 
-Anyways, to improve my vocabulary and maybe help out other people heading to China, I'm planning on doing a series of posts translating menus at places I've been to in China. I won't be able to post pictures of all the food, since I can't order everything, but you can image-search the Chinese names for most items and see what they look like.
-
-Here's the menu (notice the green WeChat Pay and blue AliPay QR codes):
+Here's a photo of the menu (notice the green WeChat Pay and blue AliPay QR codes):
 
 {{< figure src="/images/tianjintangbaomenu.jpg" alt="Tianjin Tangbao menu." caption="天津灌汤菜单" >}}
 
