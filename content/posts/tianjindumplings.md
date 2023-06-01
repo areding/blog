@@ -8,7 +8,7 @@ date = 2020-01-14
 
 +++
 
-For quite a while after I first came to China, I was scared to go to new restaurants alone and order in Chinese. I walked everywhere, and we live on a pretty huge hill, so I would occasionally get hungry enough to overcome my fear of interaction. (I lost about 10 pounds during this period. Unfortunately, as my Chinese got better, my weight went back up.)
+For quite a while after I first came to China, I was scared to go to new restaurants alone and order in Chinese. I walked everywhere, and we live on a pretty huge hill, so I would occasionally get hungry enough to overcome my fear of interaction using another language. (I lost about 10 pounds during this period. Unfortunately, as my Chinese got better, my weight went back up.)
 
 This post is about the menu at Tianjin Soup Dumplings, a tiny restaurant near my elementary school. My interactions with the owner were, at first, limited to something like:
 
