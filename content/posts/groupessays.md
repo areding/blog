@@ -1,7 +1,7 @@
 +++
 
 title = "Group essays in small classes"
-draft = false
+draft = true
 description = "An activity for lower intermediate English classes."
 tags = ["teaching", "English", "China"]
 date = 2020-01-05

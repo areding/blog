@@ -1,7 +1,7 @@
 +++
 
-title = "Tianjin soup-filled dumplings"
-draft = false
+title = "Tianjin soup dumplings"
+draft = true
 description = "A menu translation."
 tags = ["Chinese", "menu", "China", "translation"]
 date = 2020-01-14
@@ -19,9 +19,9 @@ This post is about the menu at Tianjin Soup Dumplings, a tiny restaurant near my
 
 {{< figure src="/images/tianjinbaozi.jpg" alt="A basket of baozi." caption="一笼包子" >}}
 
-One time, feeling adventurous, I tried to order soup buns (sometimes known as soup dumplings in English), but I thought they were called 小笼包 (xiǎo lóng bāo, little basket buns). 2 minutes later I received my usual order of non-soup buns. Now that I'm translating this menu, I see why. Here they call them 汤包 (tāng bāo, literally, soup buns). Also my pronunciation was probably terrible. I'll try ordering 汤包 next time and see what happens.
+One time, feeling adventurous, I tried to order soup buns (also known as soup dumplings in English), but I thought they were called 小笼包 (xiǎo lóng bāo, little basket buns). 2 minutes later I received my usual order of non-soup buns. Now that I'm translating this menu, I see why. Here they call them 汤包 (tāng bāo, literally, soup buns). Also my pronunciation was probably terrible. I'll try ordering 汤包 next time and see what happens.
 
-Anyways, to improve my vocabulary and maybe help out other people heading to China, I'm planning on doing a series of posts translating menus at places I've been to in China. I won't be able to post pictures of all the food, since I can't order everything, but you can image-search the Chinese names  for most items and see what they look like.
+Anyways, to improve my vocabulary and maybe help out other people heading to China, I'm planning on doing a series of posts translating menus at places I've been to in China. I won't be able to post pictures of all the food, since I can't order everything, but you can image-search the Chinese names for most items and see what they look like.
 
 Here's the menu (notice the green WeChat Pay and blue AliPay QR codes):
 

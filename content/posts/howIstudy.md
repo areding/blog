@@ -10,7 +10,13 @@ date = 2022-04-22
 
 This is my general approach to learning Chinese and the resources I've found helpful.
 
-First, I feed my brain some content, whether it's a menu, a song or three, a story from DuChinese, a TV show, or a podcast. Then add some words from the content into my spaced repetition software, study the flashcards of the day, and that's it.  I don't study handwriting. I also usually throw in some passive listening of music or podcasts after that. 
+First, I feed my brain some content, whether it's a menu, a song or three, a story from DuChinese, a TV show, or a podcast. Then add some words from the content into my spaced repetition software, study the flashcards of the day, and that's it. 
+
+I don't study handwriting. I also usually throw in some passive listening of music or podcasts after that. 
+
+tip: when adding a word with a new character to your list, try and have that character show up in different contexts.
+
+For example, I just learned 摇滚, then saw 摇开. This works with radicals, too. 遥远 came up a couple days later.
 
 ### Utilities
 
@@ -62,7 +68,11 @@ Scissor Seven
 
 
 
-That one weird netflix one
+That one weird netflix Taiwanese one
+
+
+
+都挺好
 
 
 
@@ -204,3 +214,6 @@ https://www.youtube.com/c/MandarinMonkey
 
 
 
+### Other lists
+
+https://chinese.stackexchange.com/questions/1120/resources-for-learning-mandarin-chinese/1233#1233
