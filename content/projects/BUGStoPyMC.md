@@ -23,7 +23,7 @@ images = [
   Screenshot from project website
 - /images/bugstopymc/btp_ss1.jpg
   Screenshot from project website
-{{</ gallery >}}
+  {{</ gallery >}}
 
 
 During my second semester as a TA, I created this site to address the most common student complaints and questions. At the time, the most frequent source of [dissatisfaction](https://www.omscentral.com/courses/introduction-to-theory-and-practice-of-bayesian-statistics/reviews) was the course’s use of older software, namely [BUGS](https://www.mrc-bsu.cam.ac.uk/software/bugs/). So I redid the lecture examples in Python and PyMC.
@@ -32,6 +32,6 @@ A close second was the lecture quality—students found some of the lectures una
 
 The project can be found [here](https://areding.github.io/6420-pymc/). The website was created with [Jupyter Book](https://jupyterbook.org/), and the examples make use of [PyMC](https://github.com/pymc-devs/pymc), [SciPy](https://docs.scipy.org/doc/scipy/index.html), [NumPy](https://numpy.org/), [ArViz](https://arviz-devs.github.io/arviz/), and [Pgmpy](https://pgmpy.org/).
 
-### Current progress (last updated May 2023)
+### Current progress (last updated July 2023)
 
-The site currently has 74 individual pages of content, with 54 of them containing code examples. There are 50 additional pages outlined and being written. I expect to finish them over the summer, I'll be adding notes for each lecture, further explanation for existing examples, and new supplementary examples. As of the end of May, I'm finished with Unit 3, halfway through Unit 4.
+Over the summer, I'll be adding notes for each lecture, further explanation for existing examples, and new supplementary examples. As of July 10th, I'm finished with Unit 4. Lots of content for Unit 5 has already been written, hoping to finish incorporating that within a week.
