@@ -30,8 +30,12 @@ During my second semester as a TA, I created this site to address the most commo
 
 A close second was the lecture quality—students found some of the lectures unapproachable for various reasons. To help with this, I’ve added notes that provide context to the lectures and address the most common questions we get about each one. As someone who originally took the class a little light on the necessary math and statistics knowledge, I hope my perspective helps other people coming in with similar backgrounds.
 
-The project can be found [here](https://areding.github.io/6420-pymc/). The website was created with [Jupyter Book](https://jupyterbook.org/), and the examples make use of [PyMC](https://github.com/pymc-devs/pymc), [SciPy](https://docs.scipy.org/doc/scipy/index.html), [NumPy](https://numpy.org/), [ArViz](https://arviz-devs.github.io/arviz/), and [Pgmpy](https://pgmpy.org/).
+The main project site can be found [here](https://areding.github.io/6420-pymc/). The website was created with [Jupyter Book](https://jupyterbook.org/), and the examples make use of [PyMC](https://github.com/pymc-devs/pymc), [SciPy](https://docs.scipy.org/doc/scipy/index.html), [NumPy](https://numpy.org/), [ArViz](https://arviz-devs.github.io/arviz/), and [Pgmpy](https://pgmpy.org/).
 
-### Current progress (last updated July 2023)
+I'm working on some adding supporting visualizations in simple webapps. You can view those [here](https://isye6420.runmercury.com/app/rwmetropolis).
 
-Over the summer, I'll be adding notes for each lecture, further explanation for existing examples, and new supplementary examples. As of July 10th, I'm finished with Unit 4. Lots of content for Unit 5 has already been written, hoping to finish incorporating that within a week.
+I also have a script to auto-generate simple [Latex documentation](https://areding.github.io/6420-pymc/backmatter/latex_reference.html) using GPT-4 shared [here](https://github.com/areding/latexref).
+
+### Current progress (last updated August 2023)
+
+Over the summer, I'll be adding notes for each lecture, further explanation for existing examples, and new supplementary examples. As of August 4th, I'm up to Unit 5 Lesson 9.
